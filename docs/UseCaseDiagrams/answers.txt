@@ -28,4 +28,4 @@ Verify ID is only needed when certain items such as alcohol and tobacco are purc
 
 8.Why does Scan Items include Check Cart for Items?
 In order to Scan Items, it is REQUIRED for the shopper or employee to check the cart for possible items to be scanned. 
-The relationship is "include" because it is a required task for the basecase Scan Items to function.
+The relationship is "include" because it is a required task for the basecase "Scan Items" to function.
