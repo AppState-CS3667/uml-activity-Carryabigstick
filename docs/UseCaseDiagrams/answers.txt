@@ -1,0 +1,31 @@
+1. What are the primary actors?
+Primary actors are the forces outside the system that initiate interactions with the system. 
+Commonly this is human interaction with the system, but can be many things. 
+
+2. What are the secondary actors?
+Secondary actors are forces outside the system that react to interactions from the system. 
+
+3.What type of word describes the use cases? (noun,
+adjective, verb, adverb, etc)
+verbs describes the use cases. 
+
+4.What type of word describes the actors?
+A noun describes the actoes because they describe roles that interact with the system. 
+
+5.Why is/are the primary actor(s) primary and not
+secondary?
+The primary actor is primary because it is the beginning/first interaction with the system.
+It doesn't need to react to anything. Similar to the independent variable. 
+
+6.Why is/are the secondary actor(s) secondary and not
+primary?
+The secondary actor is secondary because it is caused by a reaction to the primary actor and system. 
+Very similar to the dependent variable.
+
+7.Why does Verify ID extend Scan Items?
+Verify ID extends Scan Items because the need to Verify ID MAY happen during the self checkout process. 
+Verify ID is only needed when certain items such as alcohol and tobacco are purchased.
+
+8.Why does Scan Items include Check Cart for Items?
+In order to Scan Items, it is REQUIRED for the shopper or employee to check the cart for possible items to be scanned. 
+The relationship is "include" because it is a required task for the basecase "Scan Items" to function.
